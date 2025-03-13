@@ -1,0 +1,1 @@
+This is a simple Hangman game implemented in Python. The program selects a random word from a predefined list and challenges the player to guess it by suggesting letters within a limited number of attempts.
